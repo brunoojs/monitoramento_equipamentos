@@ -1,0 +1,20 @@
+[
+  {
+    "equipmentId": "TRK001",
+    "equipmentName": "Caminhão Volvo FH",
+    "statusName": "Operando",
+    "hourlyValue": 250.00
+  },
+  {
+    "equipmentId": "TRK002",
+    "equipmentName": "Scania R450",
+    "statusName": "Parado",
+    "hourlyValue": 200.00
+  },
+  {
+    "equipmentId": "TRK003",
+    "equipmentName": "Mercedes-Benz Actros",
+    "statusName": "Manutenção",
+    "hourlyValue": 180.00
+  }
+]
